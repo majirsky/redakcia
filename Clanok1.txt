@@ -2,6 +2,7 @@ Autor: Filip Majirský
 Nazov: Chrípka
 Datum: 3.6.2020
 ----
+
 Chrípka je infekčné ochorenie, ktoré vyvoláva rýchlo sa šíriaci a premenlivý vírus. 
 Prebieha ako akútne zápalové ochorenie horných dýchacích ciest. 
 Nástup chrípky je náhly, z plného zdravia.
@@ -10,6 +11,6 @@ Prechladnutie začína kýchaním a nádchou, slzia oči, chorý má pocit boles
 Príznaky bežného prechladnutia trvajú kratšie a komplikácie ako zápal pľúc sa vyskytujú zriedka.
 Teplota, zvyčajne do 38 st. sa objavuje 1-2 dni po začiatku nádchy. Ochorenie je obmedzené na horné dýchacie cesty, bez celkových príznakov. 
 ----
-Publikáciu pripravil Úrad verejného zdravotníctva Slovenskej republiky a v týchto dňoch ju 
-odborní pracovníci zo všetkých 36 regionálnych úradov verejného zdravotníctva 
-na Slovensku distribuujú do materských škôlok.
+Rodičia, povedzte svojmu dieťaťu ako neochorieť.
+Pomôže vám pri tom knižka „Ako ježko Pichliačik zvíťazil nad prechladnutím".
+Na príbehu malého Ježka mu vysvetlíte čo sú baktérie a vírusy, aké ochorenia spôsobujú a hlavne - ako sa im môže vyhnúť.
