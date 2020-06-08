@@ -2,9 +2,9 @@ Autor: Filip Majirský
 Nazov: Chrípka
 Datum: 3.6.2020
 ----
-Chrípka je nákazliva sezónna choroba.
-Prenáša sa kvapôčkovou infekciou.
-Nie je až tak nebezpečná no rozhodne je veľmi nepríjemná.
+Chrípka je infekčné ochorenie, ktoré vyvoláva rýchlo sa šíriaci a premenlivý vírus. 
+Prebieha ako akútne zápalové ochorenie horných dýchacích ciest. 
+Nástup chrípky je náhly, z plného zdravia.
 ----
 Prechladnutie začína kýchaním a nádchou, slzia oči, chorý má pocit bolesti hrdla. 
 Príznaky bežného prechladnutia trvajú kratšie a komplikácie ako zápal pľúc sa vyskytujú zriedka.
